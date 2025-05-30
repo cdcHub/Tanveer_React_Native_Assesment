@@ -28,6 +28,11 @@ To evaluate practical knowledge of:
 
 ---
 
+## 🧩 State Management Choice
+This project uses Zustand instead of Redux for state management because it is a smaller app and Zustand provides a simpler and more lightweight solution suitable for this scale.
+
+---
+
 ## 📲 Running the App
 
 ### 1. Clone the Repository
